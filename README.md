@@ -1,5 +1,5 @@
 # bollywood-movie-dataset
-Basic moviedata like actor names, genre, director names, sequel, date of release, etc of bollywood movies released between 2001 and 2014 
+Basic movie data like actor names, genre, director names, sequel, date of release, etc of bollywood movies released between 2001 and 2014. Also includes ranking of actors and directors. 
 
 # Inspiration
 Can we save the time and money wasted by movie viewers on viewing flop and disaster movies? Can we suggest must-watch movies to movie viewers even before movies release? Can we classify upcoming movies into 1 of 9 categories even before their release?
